@@ -16,7 +16,6 @@ function App() {
     setSat(displaySats);
  };
 
-
   return (
     <div>
       <Banner />
